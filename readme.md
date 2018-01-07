@@ -1,10 +1,10 @@
-##Simple MVC, OOP PHP microframework (View, Controller and BussinesLogic as Model).
+# Simple MVC, OOP PHP microframework (View, Controller and BussinesLogic as Model).
 
-##Requirements:
+# Requirements:
 - PHP > 5.6 (PHP 7), Apache2
 
 
-##Installation: 
+# Installation: 
 
 1. Clone git repo and set up apache vhost with document root configured to webroot/index.php, e.g.:
 
