@@ -5,8 +5,6 @@
  * Microframework Bussines Logic class - calculates ISS position from api calls 
  * 
  */
- 
-require_once('../BussinesLogic/IssPosition.php');
 
 class IssPosition {
 
