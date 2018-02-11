@@ -36,6 +36,3 @@ class IssPosition {
 	
 }
 
-//$obj = new IssPosition();
-//echo $obj->calculatePosition();
-
